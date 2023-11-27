@@ -1,5 +1,6 @@
 {
     "version": "1.0.0",
     "icons": "icons/",
-    "name": "Material Icons"
+    "name": "Material Icons",
+    "thumbnail": "store/Thumbnail.png"
 }
