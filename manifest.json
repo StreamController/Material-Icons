@@ -2,5 +2,6 @@
     "version": "1.0.0",
     "icons": "icons/",
     "name": "Material Icons",
-    "thumbnail": "store/Thumbnail.png"
+    "thumbnail": "store/Thumbnail.png",
+    "description": "Unofficial Material Icons designed by Google"
 }
